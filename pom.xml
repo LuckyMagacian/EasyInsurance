@@ -23,7 +23,7 @@
   <packaging>war</packaging>
   <name>EasyInsurance</name>
   <groupId>com.lanxi.EasyInsurance</groupId>
-  <artifactId>JavaWebTemplate</artifactId>
+  <artifactId>EasyInsurance</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <properties>
